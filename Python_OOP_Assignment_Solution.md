@@ -1,5 +1,8 @@
 ## Python OOP Assignment
 Q1. What is the purpose of Python's OOP?
+Ans1. Object-oriented programming (OOP) in Python is a way of writing code that makes it easier to understand, maintain, and reuse.
+
+OOP does this by grouping related data and functions together into objects. This makes the code more organized and modular, which makes it easier to understand and maintain. It also makes the code more reusable, because programmers can create new objects that inherit from existing objects.
 
 Q2. Where does an inheritance search look for an attribute?
 
